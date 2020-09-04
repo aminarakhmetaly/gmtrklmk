@@ -11,7 +11,7 @@
   "dependencies": {
     "expo": "^31.0.2",
     "moment": "^2.22.2",
-    "papaparse": "^4.6.1",
+    "papaparse": "^5.2.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "react-native-calendar-picker": "^5.22.0",
