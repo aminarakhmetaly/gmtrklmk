@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "moment": "^2.22.2",
     "papaparse": "^4.6.1",
     "react": "16.5.0",
